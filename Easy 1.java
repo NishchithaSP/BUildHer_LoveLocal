@@ -8,6 +8,10 @@ class Solution {
     }
 }
 
+Space Complexity: O(n)
+Time Complexity: O(n)
+
+
 /* Logic Breakdown:
 
 1.Trimming the String:
@@ -41,6 +45,10 @@ class Solution {
         return s.length()-s.lastIndexOf(" ")-1;
     }
 }
+
+Space Complexity: O(1)
+Time Complexity: O(n)
+
 
 /* Logic Breakdown: 
 
@@ -76,6 +84,9 @@ class Solution {
         return length;
     }
 }
+
+Space Complexity: O(1)
+Time Complexity: O(n)
 
 /* Logic Breakdown:
 
