@@ -45,7 +45,7 @@ class Solution {
     }
 }
 
-Space Complexity: O(1)
+Space Complexity: O(n)
 Time Complexity: O(n)
 
 /* Logic Breakdown: 
