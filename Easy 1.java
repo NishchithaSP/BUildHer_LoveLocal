@@ -8,8 +8,8 @@ class Solution {
     }
 }
 
-Space Complexity: O(n)
 Time Complexity: O(n)
+Space Complexity: O(n)
 
 /* Logic Breakdown:
 
@@ -45,8 +45,8 @@ class Solution {
     }
 }
 
-Space Complexity: O(n)
 Time Complexity: O(n)
+Space Complexity: O(n)
 
 /* Logic Breakdown: 
 
@@ -83,8 +83,8 @@ class Solution {
     }
 }
 
-Space Complexity: O(1)
 Time Complexity: O(n)
+Space Complexity: O(1)
 
 /* Logic Breakdown:
 
